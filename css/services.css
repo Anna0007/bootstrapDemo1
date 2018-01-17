@@ -1,0 +1,76 @@
+.header {
+	width: 100%;
+	height: 200px;
+	position: relative;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.header>img {
+	position: absolute;
+	width: 100%;
+	top: -540px;
+}
+.container>h3{
+        text-align: center;
+    font-size: 36px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.outteam ul li div {
+        background: none;
+     padding: 0px; 
+    border-bottom: 3px solid #ccc;
+    padding-bottom: 20px;
+}
+.outteam ul li img {
+    width: 98%;
+}
+.outteam ul li p{
+	color: #B66CA9;
+	font-size: 30px;
+}
+.container>h3 {
+	margin-bottom: 30px;
+}
+.bestoffers{
+	width: 100%;
+	height: 170px;
+	background: #EEE;
+	    padding: 40px 0;
+	        margin-bottom: 30px;
+}
+.botxt{
+	    text-align: center;
+    font-size: 36px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.bestoffers .txt{
+	border-left: 3px solid #B66CA9;
+	padding-left: 32px;
+}
+.more{margin-top: 12px;    margin-bottom: 0;}
+.more a{
+	color:#B66CA9 ;
+	font-size: 15px;
+}
+.container>div.txt h4 {
+    color: black;
+    font-size: 25px;
+    margin: 0;
+    margin-bottom: 8px;
+    font-family: monospace;
+}
+.office{
+	    margin-bottom: 45px;
+}
+.office h3{
+	    margin-bottom: 35px;
+}
+.outteam ul li {
+    padding-right: 15px;
+    text-align: left;
+    max-width: 400px;
+    float: left;
+}

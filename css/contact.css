@@ -1,0 +1,45 @@
+.header {
+	width: 100%;
+	height: 200px;
+	position: relative;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.header>img {
+	position: absolute;
+	width: 100%;
+	top: -540px;
+}
+.container>h3{
+        text-align: center;
+    font-size: 36px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.loaction{
+	height: 200px;
+}
+.title1{
+	    font-size: 22px;
+    font-family: cursive;
+    margin-bottom: 5px;
+}
+.form{
+	    padding: 10px 20px 10px 0;
+}
+label {
+    font-weight: lighter;
+    color: #a7a2a2;
+}
+.txt {
+    line-height: 25px;
+}
+.txt h4 {
+    line-height: 25px;
+}
+button{
+	   color: white;
+    background-color: #B66CA9;
+    border-color: #B66CA9;
+}
